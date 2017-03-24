@@ -1,0 +1,4 @@
+[submodule "DataFlexPatterns"]
+	path = DataFlexPatterns
+	url = https://github.com/EmmaEDB/DataFlexPatterns.git
+	branch = master
