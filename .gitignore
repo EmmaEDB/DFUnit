@@ -1,0 +1,16 @@
+DFUnit/test_results.xml
+*.dep
+*.prn
+DFUnit/IdeSrc/Workspace.loc
+*.dbg
+*.exe
+*.dsk
+*.mtd
+DFUnit Example Workspace/test_results.xml
+*.fld
+*.pbg
+*.pdp
+*.pkd
+*.prp
+*.loc
+DFUnit Example Workspace/AppSrc/LoginEncryptionKey.inc
